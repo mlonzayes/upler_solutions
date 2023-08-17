@@ -1,5 +1,5 @@
 
-  # Upler - Simplifying Software License Management
+  # Upler - View
 
 ## Features
 <ul>
@@ -45,7 +45,21 @@
 <p>Thank you for being a part of Upler and simplifying software license management!</p>
 
 
+  # Upler - Back
+
 ## Backend
 <p>🚀Coming soon....</p>
 
+## Tech Stack
+<ul>
+    <li>Typescript</li>
+    <li>Nodets</li>
+    <li>Express</li>
+    <li>Mysql</li>
+</ul>
 
+## Features
+<ul>
+    <li>Basic utilities</li>
+    <li>Fast integration</li>
+</ul>
